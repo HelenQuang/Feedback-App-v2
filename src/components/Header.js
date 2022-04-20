@@ -1,8 +1,12 @@
+import { Link } from "react-router-dom";
+
 const Header = () => {
   return (
     <header>
       <div className="container">
-        <h2>Feedback App</h2>
+        <Link to="/">
+          <header>Feedback App</header>
+        </Link>
       </div>
     </header>
   );
