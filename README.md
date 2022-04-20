@@ -9,4 +9,7 @@ A feedback application where you can submit feedback and rating for a product or
 - Use Context API to manage global state
 - Create REST API with JSON Server to store backend data
 
-DEMO link:
+DEMO link: https://feedback-app-v2-helen.netlify.app/
+
+
+![Screenshot 2022-04-20 212316](https://user-images.githubusercontent.com/94285120/164297417-f4c61674-6eb5-4387-9d17-9082cf210346.png)
